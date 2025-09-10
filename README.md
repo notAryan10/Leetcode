@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/notAryan10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0136-single-number](https://github.com/notAryan10/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/notAryan10/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/notAryan10/Leetcode/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/notAryan10/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
