@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/notAryan10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/notAryan10/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/notAryan10/Leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/notAryan10/Leetcode/tree/master/0198-house-robber) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/notAryan10/Leetcode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/notAryan10/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/notAryan10/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
