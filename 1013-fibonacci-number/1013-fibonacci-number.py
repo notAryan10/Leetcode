@@ -1,10 +1,7 @@
 class Solution:
     def fib(self, n: int) -> int:
-        def func(n , m={}):
-            if n in m:
-                return m[n]
+        def func(n):
             if n <= 1:
                 return n
-            m[n] = func(n - 1, m) + func(n - 2, m)
-            return m[n]
-        return func(n, {})
+            return func(n - 1) + func(n - 2)
+        return func(n)
