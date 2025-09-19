@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/notAryan10/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/notAryan10/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/notAryan10/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/notAryan10/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/notAryan10/Leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/notAryan10/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/notAryan10/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
