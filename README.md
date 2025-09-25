@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/notAryan10/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/notAryan10/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/notAryan10/Leetcode/tree/master/0518-coin-change-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/notAryan10/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/notAryan10/Leetcode/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/notAryan10/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/notAryan10/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/notAryan10/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Memoization
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/notAryan10/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/notAryan10/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## String
 |  |
 | ------- |
@@ -117,4 +120,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/notAryan10/Leetcode/tree/master/0135-candy) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/notAryan10/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/notAryan10/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
