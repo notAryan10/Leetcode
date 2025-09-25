@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/notAryan10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/notAryan10/Leetcode/tree/master/0056-merge-intervals) |
+| [0135-candy](https://github.com/notAryan10/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/notAryan10/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/notAryan10/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/notAryan10/Leetcode/tree/master/0198-house-robber) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/notAryan10/Leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/notAryan10/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/notAryan10/Leetcode/tree/master/0183-customers-who-never-order) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/notAryan10/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
