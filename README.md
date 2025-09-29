@@ -84,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/notAryan10/Leetcode/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/notAryan10/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/notAryan10/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/notAryan10/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/notAryan10/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/notAryan10/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/notAryan10/Leetcode/tree/master/0322-coin-change) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/notAryan10/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/notAryan10/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
