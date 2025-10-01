@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/notAryan10/Leetcode/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/notAryan10/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/notAryan10/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/notAryan10/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/notAryan10/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Memoization
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/notAryan10/Leetcode/tree/master/0242-valid-anagram) |
+| [1250-longest-common-subsequence](https://github.com/notAryan10/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Database
 |  |
 | ------- |
