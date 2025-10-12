@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/notAryan10/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/notAryan10/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Bit Manipulation
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/notAryan10/Leetcode/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/notAryan10/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/notAryan10/Leetcode/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/notAryan10/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Database
