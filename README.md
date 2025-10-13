@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/notAryan10/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/notAryan10/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/notAryan10/Leetcode/tree/master/0518-coin-change-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/notAryan10/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/notAryan10/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Binary Search
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/notAryan10/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/notAryan10/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/notAryan10/Leetcode/tree/master/0518-coin-change-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/notAryan10/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/notAryan10/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/notAryan10/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/notAryan10/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -152,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/notAryan10/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/notAryan10/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
