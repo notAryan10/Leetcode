@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/notAryan10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/notAryan10/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/notAryan10/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/notAryan10/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/notAryan10/Leetcode/tree/master/0120-triangle) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/notAryan10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/notAryan10/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/notAryan10/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
