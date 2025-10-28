@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/notAryan10/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/notAryan10/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/notAryan10/Leetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/notAryan10/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/notAryan10/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/notAryan10/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/notAryan10/Leetcode/tree/master/0169-majority-element) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/notAryan10/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/notAryan10/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/notAryan10/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/notAryan10/Leetcode/tree/master/0242-valid-anagram) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/notAryan10/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/notAryan10/Leetcode/tree/master/0174-dungeon-game) |
 | [0967-minimum-falling-path-sum](https://github.com/notAryan10/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/notAryan10/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
